@@ -6,7 +6,7 @@ before going into the simulation you need to install the ros2 humble and setup a
 open a terminal in linux os and install the following package for simulation
 
 1)sudo apt install ros-humble-xacro ros-humble-joint-state-publisher-gui
-2)sudo apt install ros-humble-ros2-controller
+2)sudo apt install ros-humble-ros2-controllers
 3)sudo apt install ros-humble-controller-manager
 4)sudo apt install ros-humble-ros2-control
 5)sudo apt install ros-humble-gazebo-ros2-control
